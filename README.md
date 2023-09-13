@@ -59,7 +59,7 @@ Contributions are welcome! If you want to contribute to this project, please fol
 
 ## License
 
-This project is licensed under the [MIT] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT] License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Contact me
 ## Email: mobinghnbari222@gmail.com
