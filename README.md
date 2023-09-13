@@ -3,7 +3,7 @@
 school api using fast api
 
 ## Warning
-Make sure that you using the last version of python and fastapi.
+Make sure that you are using the last version of python and fastapi.
 Also You have to create an remote databse in phpmyadmin and put its name in databse\connection.py in :
 ```
 DATABASE_URL = "mysql+mysqlconnector://root@localhost:3306/your_databse_name"
