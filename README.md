@@ -21,7 +21,7 @@ finally you have to create table like databse\models.py
 ## Installation
 1. Clone the repository
 ```
-Clone xxx.com
+Clone git@github.com:mobinghanbari/school_fast_api.git
 ```
 ```
 cd fast_api_project
