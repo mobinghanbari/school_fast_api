@@ -1,6 +1,6 @@
 # School Api With Fast Api
 
-to do api using fast api
+school api using fast api
 
 ## Warning
 Make sure that you using the last version of python and fastapi.
