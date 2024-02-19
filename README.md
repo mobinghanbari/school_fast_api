@@ -38,7 +38,7 @@ venv\Scripts\activate.bat
 ```
 pip install -r requirements.txt
 ```
-4. Running the belov file
+4. Running the below file
 ```
 start.bat
 ```
